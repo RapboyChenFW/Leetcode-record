@@ -1,5 +1,5 @@
 
-//太难了,copy了reedfan的，写得太棒了,学到了
+#太难了,copy了reedfan的，写得太棒了,学到了
 
 
 ListNode res = new ListNode(0);
